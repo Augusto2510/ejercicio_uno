@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.Zone.Identifier
+bin/
+lib/
+lib64/
+pyvenv.cfg
+.DS_Store
+Thumbs.db
