@@ -3,7 +3,7 @@
 Este proyecto lee un archivo CSV con figuras geométricas y calcula el **área** (y opcionalmente el **perímetro**).
 
 ## Integrante
-- Tu Nombre (@Augusto2510)
+- Augusto Krizant Reyes Flores (@Augusto2510)
 
 ## Cómo Ejecutar
 python calcularFig.py
